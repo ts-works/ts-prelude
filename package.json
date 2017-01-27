@@ -1,0 +1,9 @@
+{
+  "name": "ts-prelude",
+  "version": "0.1.0",
+  "homepage": "https://github.com/ts-works/ts-prelude",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.4"
+  }
+}
